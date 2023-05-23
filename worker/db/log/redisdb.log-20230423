@@ -1,0 +1,48 @@
+2023-04-23 12:06:06,396 - INFO - process-4236 - redisdb.py[:63] - 连接到redis数据库 [
+    "r-0jl2pcrx1511xdfq86pd.redis.rds.aliyuncs.com:9736"
+]
+2023-04-23 12:06:11,945 - INFO - process-4256 - redisdb.py[:63] - 连接到redis数据库 [
+    "r-0jl2pcrx1511xdfq86pd.redis.rds.aliyuncs.com:9736"
+]
+2023-04-23 12:06:11,984 - INFO - process-4263 - redisdb.py[:63] - 连接到redis数据库 [
+    "r-0jl2pcrx1511xdfq86pd.redis.rds.aliyuncs.com:9736"
+]
+2023-04-23 12:06:12,000 - INFO - process-4255 - redisdb.py[:63] - 连接到redis数据库 [
+    "r-0jl2pcrx1511xdfq86pd.redis.rds.aliyuncs.com:9736"
+]
+2023-04-23 12:06:12,350 - INFO - process-4259 - redisdb.py[:63] - 连接到redis数据库 [
+    "r-0jl2pcrx1511xdfq86pd.redis.rds.aliyuncs.com:9736"
+]
+2023-04-23 12:06:12,364 - INFO - process-4258 - redisdb.py[:63] - 连接到redis数据库 [
+    "r-0jl2pcrx1511xdfq86pd.redis.rds.aliyuncs.com:9736"
+]
+2023-04-23 12:06:12,378 - INFO - process-4268 - redisdb.py[:63] - 连接到redis数据库 [
+    "r-0jl2pcrx1511xdfq86pd.redis.rds.aliyuncs.com:9736"
+]
+2023-04-23 12:06:12,394 - INFO - process-4264 - redisdb.py[:63] - 连接到redis数据库 [
+    "r-0jl2pcrx1511xdfq86pd.redis.rds.aliyuncs.com:9736"
+]
+2023-04-23 12:06:12,394 - INFO - process-4257 - redisdb.py[:63] - 连接到redis数据库 [
+    "r-0jl2pcrx1511xdfq86pd.redis.rds.aliyuncs.com:9736"
+]
+2023-04-23 12:06:12,395 - INFO - process-4262 - redisdb.py[:63] - 连接到redis数据库 [
+    "r-0jl2pcrx1511xdfq86pd.redis.rds.aliyuncs.com:9736"
+]
+2023-04-23 12:06:12,436 - INFO - process-4260 - redisdb.py[:63] - 连接到redis数据库 [
+    "r-0jl2pcrx1511xdfq86pd.redis.rds.aliyuncs.com:9736"
+]
+2023-04-23 12:06:12,449 - INFO - process-4266 - redisdb.py[:63] - 连接到redis数据库 [
+    "r-0jl2pcrx1511xdfq86pd.redis.rds.aliyuncs.com:9736"
+]
+2023-04-23 12:06:12,466 - INFO - process-4269 - redisdb.py[:63] - 连接到redis数据库 [
+    "r-0jl2pcrx1511xdfq86pd.redis.rds.aliyuncs.com:9736"
+]
+2023-04-23 12:06:12,484 - INFO - process-4267 - redisdb.py[:63] - 连接到redis数据库 [
+    "r-0jl2pcrx1511xdfq86pd.redis.rds.aliyuncs.com:9736"
+]
+2023-04-23 12:06:12,504 - INFO - process-4261 - redisdb.py[:63] - 连接到redis数据库 [
+    "r-0jl2pcrx1511xdfq86pd.redis.rds.aliyuncs.com:9736"
+]
+2023-04-23 12:06:12,537 - INFO - process-4265 - redisdb.py[:63] - 连接到redis数据库 [
+    "r-0jl2pcrx1511xdfq86pd.redis.rds.aliyuncs.com:9736"
+]
